@@ -120,7 +120,7 @@ button:focus {
 
 
 
-@media only screen and (max-width: 680px) {
+@media only screen and (min-width: 680px) {
     body {
         font-family: 'Hanken Grotesk', sans-serif;
         font-size: 18px;
